@@ -1,2 +1,2 @@
-# TechDegree_Portfolio_Project_1
+# TechDegree Portfolio Project 1
  My First Tech Project
